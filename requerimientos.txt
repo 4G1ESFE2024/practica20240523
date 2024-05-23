@@ -1,0 +1,5 @@
+1- Imprimir los empleados con sueldos mayores a 250 dolares
+2- Imprimir los empleados que se les pago en mayo 2024
+3- Imprimir los empleados que contiene una "j" en su nombre
+4- Cambiar la primera letra del empleado a mayuscula
+5- Ordenar los empleados del menor a mayor sueldo
